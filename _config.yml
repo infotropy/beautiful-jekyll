@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sr4001.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "SR4001.COM"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -120,7 +120,7 @@ url-pretty: "sr4001.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "sr4001"
 
 # Facebook App ID
 # fb_app_id: ""
