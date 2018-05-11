@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: SR4001
+title: sr4001
 
 # Short description of your site
 description: descriptive text
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "SR4001.COM"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "sr4001.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
