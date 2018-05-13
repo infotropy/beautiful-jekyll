@@ -17,7 +17,7 @@ baseurl: ""
 title: SR4001
 
 # Short description of your site
-description: descriptive text
+description: The large print giveth and the small print taketh away
 
 # --- Navigation bar options --- #
 
@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/boar.jpeg
+# title-img: "/img/boar.jpeg"
 
 # --- Background colour/image options --- #
 
