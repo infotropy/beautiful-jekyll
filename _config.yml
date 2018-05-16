@@ -24,11 +24,11 @@ description: The large print giveth and the small print taketh away
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  About Other Stuff:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://sr4001.com"
+  # Author's home: "https://sr4001.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
