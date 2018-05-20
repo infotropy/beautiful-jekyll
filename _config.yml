@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   About Other Stuff:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Markdown Cheatsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   # Author's home: "https://sr4001.com"
