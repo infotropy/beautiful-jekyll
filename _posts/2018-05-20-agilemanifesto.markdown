@@ -1,7 +1,7 @@
 ---
 layout: post
 title: agilemanifesto
-date: 2018-05-20 17:39:13 -0400
+date: 2018-05-20 17:40:50 -0400
 tags: []
 ---
 
