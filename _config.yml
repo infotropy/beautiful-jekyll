@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://sr4001.com"
+url: "https://agov.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: SR4001
+title: Agile Governance
 
 # Short description of your site
 description: The large print giveth and the small print taketh away
@@ -30,7 +30,7 @@ navbar-links:
     - Markdown Cheatsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  # Author's home: "https://sr4001.com"
+  # Author's home: "https://agov.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "SR4001.COM"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "AGOV.IO"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
