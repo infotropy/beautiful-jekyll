@@ -25,7 +25,7 @@ description: The large print giveth and the small print taketh away
 navbar-links:
   About Me: "aboutme"
   About Other Stuff:
-    - Agile Governance Manifesto: "agilemanifesto"
+    - Agile Manifesto: "agilemanifesto"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Markdown Cheatsheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
     - Learn markdown: "http://www.markdowntutorial.com/"
