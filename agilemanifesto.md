@@ -1,5 +1,5 @@
 ---
-title: "Agile Governance Manifesto"
+title: "Agile Manifesto"
 layout: page
 tags: agile, software development
 ---
